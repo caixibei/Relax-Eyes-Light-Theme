@@ -1,12 +1,12 @@
-# 🌿 Relax Eyes Light Theme
+# 🌿 Relax Light Theme
 
 > Make coding more comfortable and your eyes more relaxed.
 
-<img src="https://raw.githubusercontent.com/caixibei/Relax-Eyes-Light-Theme/refs/heads/master/example/example.webp"/>
+<img src="https://raw.githubusercontent.com/caixibei/Relax-Light-Theme/refs/heads/master/example/example.webp"/>
 
 Long hours of coding causing eye strain and dryness?
 
-**Relax Eyes Light Theme** is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
+**Relax Light Theme** is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
 
 ## ✨ Features
 
@@ -26,9 +26,9 @@ Long hours of coding causing eye strain and dryness?
 ## 🛠 Installation & Usage
 
 - In JetBrains IDE, go to Plugins Marketplace
-- Search for <b>Relax Eyes Light Theme</b> and install it
-- Restart IDE, go to Settings → Appearance & Behavior → Theme and select **Relax Eyes Light Theme**
+- Search for <b>Relax Light Theme</b> and install it
+- Restart IDE, go to Settings → Appearance & Behavior → Theme and select **Relax Light Theme**
 
-We believe that good tools should not only be powerful but also humanized. Relax Eyes Light Theme is more than just a theme—it's a care for developers' eyes.
+We believe that good tools should not only be powerful but also humanized. Relax Light Theme is more than just a theme—it's a care for developers' eyes.
 
-💡 Let **Relax Eyes Light Theme** accompany every moment of your programming. Code is not only about efficiency but also about comfort.
+💡 Let **Relax Light Theme** accompany every moment of your programming. Code is not only about efficiency but also about comfort.
