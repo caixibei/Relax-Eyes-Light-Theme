@@ -1,0 +1,76 @@
+<idea-plugin>
+    <id>relax-eyes-light-theme</id>
+    <version>1.0.0</version>
+    <name>Relax Eyes Light Theme</name>
+    <category>UI</category>
+    <vendor email="caixibei@139.com">蔡熙贝</vendor>
+    <idea-version since-build="203"/>
+    <description><![CDATA[
+        <html>
+            <h2>🌿 Relax Eyes Light Theme</h2>
+            <p>
+                Make coding more comfortable and your eyes more relaxed!
+            </p>
+            <div>
+                <img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>
+            </div>
+            <p>Long hours of coding causing eye strain and dryness?<br/>
+            <b>Relax Eyes Light Theme</b> is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
+
+            <h3>✨ Features:</h3>
+            <ul>
+                <li>
+                    <b>Low Blue Light Soft Colors:</b> Uses visually optimized low-saturation colors to reduce blue light stimulation and alleviate eye fatigue from prolonged screen time.
+                </li>
+                <li>
+                    <b>Multi-level Contrast Optimization:</b> Key code elements are clearly highlighted while non-critical information is gently toned down, improving code readability without glare.
+                </li>
+                <li>
+                    <b>Global Eye-Protection Mode:</b> Not just the editor, but the entire IDE interface including sidebars, toolbars, and dialogs are uniformly color-tuned for a consistent and comfortable visual experience.
+                </li>
+                <li>
+                    <b>Multi-language Syntax Highlighting Support:</b> Perfectly supports mainstream languages like Java, Python, JavaScript, HTML/CSS, with clear syntax hierarchy and logical structure.
+                </li>
+                <li>
+                    <b>Light Mode:</b> Provides light eye-protection mode to adapt to different lighting environments and personal preferences.
+                </li>
+            </ul>
+
+            <h3>🎯 Target Users:</h3>
+            <ul>
+                <li>Professional developers who code for long hours daily</li>
+                <li>Students and programming enthusiasts who self-learn</li>
+                <li>Users sensitive to visual fatigue or already suffering from dry eye syndrome</li>
+                <li>Programming professionals who pursue both efficiency and health</li>
+            </ul>
+
+            <h3>🛠 Installation & Usage:</h3>
+            <ol>
+                <li>In JetBrains IDE, go to Plugins Marketplace</li>
+                <li>Search for <b>Relax Eyes Light Theme</b> and install it</li>
+                <li>Restart IDE, go to Settings → Appearance & Behavior → Theme and select <b>Relax Eyes Light Theme Light</b></li>
+            </ol>
+
+            <blockquote>
+                <p>「We believe that good tools should not only be powerful but also humanized. Relax Eyes Light Theme is more than just a theme—it's a care for developers' eyes.」</p>
+            </blockquote>
+
+            <p>💡 <b>Let Relax Eyes Light Theme accompany every moment of your programming. Code is not only about efficiency but also about comfort.</b></p>
+        </html>
+    ]]></description>
+    <change-notes><![CDATA[
+        <html>
+            <h3>Version 1.0.0</h3>
+            <ul>
+                <li>Initial version release</li>
+                <li>Includes light eye-protection themes</li>
+                <li>Supports syntax highlighting for mainstream programming languages</li>
+                <li>Comprehensive visual optimization for all IDE interface components</li>
+            </ul>
+        </html>
+    ]]></change-notes>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="relax-eyes-light-theme" path="/theme/relaxeyeslighttheme.theme.json"/>
+    </extensions>
+</idea-plugin>
