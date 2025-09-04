@@ -1,13 +1,13 @@
 <idea-plugin>
-    <id>relax-eyes-light-theme</id>
+    <id>relax-light-theme</id>
     <version>1.0.0</version>
-    <name>Relax Eyes Light Theme</name>
+    <name>Relax Light Theme</name>
     <category>UI</category>
     <vendor email="caixibei@139.com">蔡熙贝</vendor>
     <idea-version since-build="203"/>
     <description><![CDATA[
         <html>
-            <h2>🌿 Relax Eyes Light Theme</h2>
+            <h2>🌿 Relax Light Theme</h2>
             <p>
                 Make coding more comfortable and your eyes more relaxed!
             </p>
@@ -15,7 +15,7 @@
                 <img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>
             </div>
             <p>Long hours of coding causing eye strain and dryness?<br/>
-            <b>Relax Eyes Light Theme</b> is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
+            <b>Relax Light Theme</b> is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
 
             <h3>✨ Features:</h3>
             <ul>
@@ -47,15 +47,15 @@
             <h3>🛠 Installation & Usage:</h3>
             <ol>
                 <li>In JetBrains IDE, go to Plugins Marketplace</li>
-                <li>Search for <b>Relax Eyes Light Theme</b> and install it</li>
-                <li>Restart IDE, go to Settings → Appearance & Behavior → Theme and select <b>Relax Eyes Light Theme Light</b></li>
+                <li>Search for <b>Relax Light Theme</b> and install it</li>
+                <li>Restart IDE, go to Settings → Appearance & Behavior → Theme and select <b>Relax Light Theme Light</b></li>
             </ol>
 
             <blockquote>
-                <p>「We believe that good tools should not only be powerful but also humanized. Relax Eyes Light Theme is more than just a theme—it's a care for developers' eyes.」</p>
+                <p>「We believe that good tools should not only be powerful but also humanized. Relax Light Theme is more than just a theme—it's a care for developers' eyes.」</p>
             </blockquote>
 
-            <p>💡 <b>Let Relax Eyes Light Theme accompany every moment of your programming. Code is not only about efficiency but also about comfort.</b></p>
+            <p>💡 <b>Let Relax Light Theme accompany every moment of your programming. Code is not only about efficiency but also about comfort.</b></p>
         </html>
     ]]></description>
     <change-notes><![CDATA[
@@ -71,6 +71,6 @@
     ]]></change-notes>
     <depends>com.intellij.modules.platform</depends>
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="relax-eyes-light-theme" path="/theme/relaxeyeslighttheme.theme.json"/>
+        <themeProvider id="relax-light-theme" path="/theme/relax-light-theme.json"/>
     </extensions>
 </idea-plugin>

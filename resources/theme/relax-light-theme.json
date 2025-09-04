@@ -1,8 +1,8 @@
 {
-  "name": "Relax Eyes Light Theme",
+  "name": "Relax Light Theme",
   "dark": false,
   "author": "蔡熙贝",
-  "editorScheme": "/relax-light-grey-colorful.xml",
+  "editorScheme": "/relax-light-theme.xml",
   "colors": {
     "borderColor": "#e6eaea",
     "separatorColor": "#e6eaea",
