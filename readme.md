@@ -2,7 +2,7 @@
 
 > Make coding more comfortable and your eyes more relaxed.
 
-<img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>
+<img src="https://raw.githubusercontent.com/caixibei/Relax-Eyes-Light-Theme/refs/heads/master/example/example.webp"/>
 
 Long hours of coding causing eye strain and dryness?
 
